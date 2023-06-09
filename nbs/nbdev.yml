@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "CORS"
+  site-url: "https://lidar532.github.io/CORS"
+  description: "Python code to Gather RINEX GNSS collections of data sets from https://geodesy.noaa.gov/cors/rinex/"
+  repo-branch: main
+  repo-url: "https://github.com/lidar532/CORS"
