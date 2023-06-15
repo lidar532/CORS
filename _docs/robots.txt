@@ -1,0 +1,1 @@
+Sitemap: https://lidar532.github.io/CORS/sitemap.xml
